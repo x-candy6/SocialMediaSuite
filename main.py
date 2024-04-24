@@ -17,6 +17,7 @@ class RedditBot:
         self.con, self.cursor = hp.get_db(self.config)
         #self.cursor = hp.get_db(self.config)
 
+    #Takes the subreddit name, hot/new/top, if top is selected, select a timefilter("all"), the limit for posts to retrieve, and a bool that controls whether or not the db is updated 
     def printTitles(self, subreddit, method, timefilter, limit, update=False):
         subreddit_name = subreddit
         self.subreddit = self.reddit.subreddit(subreddit_name)
