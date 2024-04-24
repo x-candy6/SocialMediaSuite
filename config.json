@@ -1,0 +1,15 @@
+{
+    "reddit": {
+        "client_id": "",
+        "client_secret": "",
+        "password": "",
+        "user_agent": "",
+        "username": ""
+    },
+    "database": {
+        "host": "localhost",
+        "username": "",
+        "password": "",
+        "db_name": ""
+    }
+}
