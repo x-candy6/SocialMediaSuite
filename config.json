@@ -1,0 +1,15 @@
+{
+    "reddit": {
+        "client_id": "",
+        "client_secret": "9UYEUtIk6cQlwql0G-sio47W5X0bNg",
+        "password": "",
+        "user_agent": "ML-Practice-01/1.0 by /u/coolcatcollectibles",
+        "username": ""
+    },
+    "database": {
+        "host": "localhost",
+        "username": "",
+        "password": "",
+        "db_name": ""
+    }
+}
